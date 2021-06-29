@@ -14,21 +14,9 @@ You can reset Daily, Monthly and Overall independently. A surprise awaits you wh
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Here are some of the images of the app
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src=https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg)
+[Link](url) and ![Appstore SS1](src=https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
