@@ -16,7 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Here are some of the images of the app
 
-[Link](url) and ![Appstore SS1](src=https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg)
+[Link](url) and ![Appstore SS1](https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
