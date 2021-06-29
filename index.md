@@ -18,7 +18,7 @@ Here are some of the images of the app
 
 <img src="Companion.Climber/Appstore SS1.jpg" alt="hi" class="inline"/>
 
-[Link](url) and ![Appstore SS1](https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg)
+[Link](url) and ![Appstore SS1](Companion.Climber/Appstore SS1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
