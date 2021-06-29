@@ -16,6 +16,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Here are some of the images of the app
 
+<img src="Companion.Climber/Appstore SS1.jpg" alt="hi" class="inline"/>
+
 [Link](url) and ![Appstore SS1](https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg)
 ```
 
