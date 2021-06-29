@@ -19,6 +19,7 @@ You can reset Daily, Monthly and Overall independently. A surprise awaits you wh
 <img src="https://raw.githubusercontent.com/saad-creator/Companion.Climber/main/Appstore%20SS3.1.jpg"/>
 
 
+
 ### Resets
 
   You can also Reset the daily, Monthly and Overall Flights Climbed. The images are given below.
