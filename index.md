@@ -6,6 +6,7 @@ The Home Screen shows the Daily results: Floors Climbed, % Vertical Mile, and Ve
 
 You can reset Daily, Monthly and Overall independently. A surprise awaits you when you reach the top of either the Juyongguan Pass or Empire State Building.
 
+
 ### Challenges
 
   It also includes some challenges to complete.
@@ -14,28 +15,15 @@ You can reset Daily, Monthly and Overall independently. A surprise awaits you wh
 
 <img src="https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Here are some of the images of the app
 
-<img src="Companion.Climber/Appstore SS1.jpg" alt="hi" class="inline"/>
-
-[Link](url) and ![Appstore SS1](Companion.Climber/Appstore SS1.jpg)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Resets
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saad-creator/Companion-Climber/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  You can also Reset the daily, Monthly and Overall Flights Climbed. The images are given below.
+  
 
 ### Support or Contact
 
-
-<img src="Companion.Climber/Appstore SS1.jpg" alt="hi" class="inline"/>
-
-
-[Link](url) and 
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: frugalprof@gmail.com
+AppStoreLink: [Companion Climber App](url)
