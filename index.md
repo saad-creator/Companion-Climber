@@ -36,6 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 <img src="Companion.Climber/Appstore SS1.jpg" alt="hi" class="inline"/>
 
-[Link](url) and ![Appstore SS1](Companion.Climber/Appstore SS1.jpg)
+
+[Link](url) and ![Image](Companion.Climber/Appstore SS1.jpg)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
