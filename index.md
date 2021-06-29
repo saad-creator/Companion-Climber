@@ -10,6 +10,7 @@ You can reset Daily, Monthly and Overall independently. A surprise awaits you wh
 
   It also includes some challenges to complete.
 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -27,7 +28,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src=https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
