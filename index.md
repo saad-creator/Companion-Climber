@@ -25,5 +25,5 @@ You can reset Daily, Monthly and Overall independently. A surprise awaits you wh
 
 ### Support or Contact
 
-Email: frugalprof@gmail.com
+Email: frugalprof@gmail.com <br>
 AppStoreLink: [Companion Climber App](url)
