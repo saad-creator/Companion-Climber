@@ -13,7 +13,7 @@ You can reset Daily, Monthly and Overall independently. A surprise awaits you wh
 
 ![Image](https://raw.githubusercontent.com/saad-creator/Companion.Climber/main/Appstore%20SS1.jpg)
 
-<img src="https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg"/>
+<img src="https://raw.githubusercontent.com/saad-creator/Companion.Climber/main/Appstore%20SS1.jpg"/>
 
 
 
