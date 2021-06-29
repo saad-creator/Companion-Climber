@@ -16,7 +16,7 @@ You can reset Daily, Monthly and Overall independently. A surprise awaits you wh
 <img src="https://raw.githubusercontent.com/saad-creator/Companion.Climber/main/Appstore%20SS2.jpg"/>
 
 
-<img src="https://raw.githubusercontent.com/saad-creator/Companion.Climber/main/Appstore%20SS3.jpg"/>
+<img src="https://raw.githubusercontent.com/saad-creator/Companion.Climber/main/Appstore%20SS3.1.jpg"/>
 
 
 ### Resets
