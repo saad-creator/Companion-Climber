@@ -13,7 +13,7 @@ You can reset Daily, Monthly and Overall independently. A surprise awaits you wh
 
 <img src="Companion.Climber/Appstore SS1.jpg" alt="hi" class="inline"/>
 
-[Link](url) and ![Appstore SS1](Companion.Climber/Appstore SS1.jpg)
+[Link](url) and ![Appstore SS1](saad-creator/Companion.Climber/Appstore SS1.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -37,6 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <img src="Companion.Climber/Appstore SS1.jpg" alt="hi" class="inline"/>
 
 
-[Link](url) and ![Image](Companion.Climber/Appstore SS1.jpg)
+[Link](url) and ![Image](https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
