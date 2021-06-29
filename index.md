@@ -38,4 +38,4 @@ First Screen gives you the number of floors climbed in a duration of 24 hours. I
 ### Support or Contact
 
 Email: frugalprof@gmail.com <br>
-AppStoreLink: [Companion Climber App](url)
+AppStoreLink: [Companion Climber App](url) 
