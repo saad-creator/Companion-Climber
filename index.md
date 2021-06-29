@@ -1,12 +1,14 @@
 ## Welcome to Companion Climber App
 
-This is an increatable app used to have a control on your daily and monthly flights climbed and also contains a challemge to climb the two iconic landmarks.
+Champion Climber lets you see your progress virtually climbing two historic landmarks - The Juyongguan Pass at the Great Wall of China, and The Empire State Building on your Apple Watch. You appear as a red climber icon and as you climb flights of stairs, the app updates your icon's position.
 
-You can use the [editor on GitHub](https://github.com/saad-creator/Companion-Climber/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Home Screen shows the Daily results: Floors Climbed, % Vertical Mile, and Vertical Feet. Swipe left to see the Great Wall, swipe again to see the Empire State building and with one final swipe you see a summary of Daily, Monthly (last 30 days) and Overall stats of Floors, % Vertical Mile and Vertical Feet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can reset Daily, Monthly and Overall independently. A surprise awaits you when you reach the top of either the Juyongguan Pass or Empire State Building.
 
-### Markdown
+### Challenges
+
+  It also includes some challenges to complete.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,7 +32,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Resets
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saad-creator/Companion-Climber/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
