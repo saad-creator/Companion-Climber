@@ -11,7 +11,7 @@ You can reset Daily, Monthly and Overall independently. A surprise awaits you wh
 
   It also includes some challenges to complete.
 
-![Image](https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg)
+![Image](https://raw.githubusercontent.com/saad-creator/Companion.Climber/main/Appstore%20SS1.jpg)
 
 <img src="https://github.com/saad-creator/Companion.Climber/blob/main/Appstore%20SS1.jpg"/>
 
