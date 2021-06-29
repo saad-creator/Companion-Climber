@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Companion Climber App
+
+This is an increatable app used to have a control on your daily and monthly flights climbed and also contains a challemge to climb the two iconic landmarks.
 
 You can use the [editor on GitHub](https://github.com/saad-creator/Companion-Climber/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
